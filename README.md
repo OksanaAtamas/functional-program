@@ -6,4 +6,4 @@
 
 Курс базується на методології "Simply Scheme: Introducing Computer Science", реалізованої в MIT (USA)
 
-Папка code_example містить приклади кодів, що розглядаються на лекціях.  Коди реалізовані в середовищі DrRacket мовами Scheme  и Racket
+Папка code_example міститиме приклади кодів, що розглядатимуться на лекціях.  Коди реалізовані в середовищі DrRacket мовами Scheme  и Racket
