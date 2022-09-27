@@ -19,6 +19,7 @@
 ІПЗ-44мс https://drive.google.com/drive/folders/1QanLrKnZiMhce_XDZ2KTVskiLSdcXTvj?usp=sharing
 
  Посилання на курси з функціонального програмування
+ 
  https://stepik.org/course/75/promo           HASKELL
  https://vse-kursy.com/onlain/3255-kurs-po-funkcionalnomu-programmirovaniyu-na-yazyke-haskell.html 
  
