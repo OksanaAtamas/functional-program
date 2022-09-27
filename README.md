@@ -20,14 +20,21 @@
 
  Посилання на курси з функціонального програмування
  
- https://stepik.org/course/75/promo           HASKELL
+ HASKELL---------------------
+ https://stepik.org/course/75/promo           
+ 
  https://vse-kursy.com/onlain/3255-kurs-po-funkcionalnomu-programmirovaniyu-na-yazyke-haskell.html 
  
- https://www.coursera.org/specializations/scala            SCALA
+ SCALA-----------------------
+ https://www.coursera.org/specializations/scala            
+ 
  https://www.coursera.org/learn/scala-functional-programming
+ 
  https://www.coursera.org/courses?query=functional%20programming
+ 
  https://www.udemy.com/course/stairway-to-scala-setup-instructions/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-YbWOJ2fJ782Xc2R4hjwgNg&utm_medium=udemyads&utm_source=aff-campaign
  
+ KOTLIN------------------------
  
  https://devcolibri.com/course/%d0%b7%d0%bd%d0%b0%d0%ba%d0%be%d0%bc%d1%81%d1%82%d0%b2%d0%be-%d1%81-%d1%8f%d0%b7%d1%8b%d0%ba%d0%be%d0%bc-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8/   KOLTLIN
  
