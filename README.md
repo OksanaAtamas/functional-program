@@ -8,6 +8,9 @@
 
 Папка code_example міститиме приклади кодів, що розглядаються на лекціях.  Коди реалізовані в середовищі DrRacket мовами Scheme  и Racket
 
+Посилання на рейтингову таблицю результатів виконання лабораторних робіт
+https://docs.google.com/spreadsheets/d/1nYCbZV4o23rsE53gt2Lg-7bafnBOh6tE/edit?usp=sharing&ouid=102659501025330730665&rtpof=true&sd=true
+
 Посилання на папки для завантаження звітів, сертифікатів тощо:
 
 ІПЗ-41   https://drive.google.com/drive/folders/1rtDSLVe5R183Q4_WVmnHIivPkkuDCVM-?usp=sharing
