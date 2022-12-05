@@ -36,4 +36,4 @@ https://docs.google.com/spreadsheets/d/1nYCbZV4o23rsE53gt2Lg-7bafnBOh6tE/edit?us
 
 
 Посилання на тест2 для МКР2
-https://docs.google.com/forms/d/e/1FAIpQLScPElZFG4J4NiWaX6KbFSBdtcJe2ynaT9EabPdcNAkVhj1VFw/viewfor
+https://docs.google.com/forms/d/e/1FAIpQLScPElZFG4J4NiWaX6KbFSBdtcJe2ynaT9EabPdcNAkVhj1VFw/viewform
