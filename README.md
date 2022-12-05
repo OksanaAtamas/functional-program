@@ -33,3 +33,7 @@ https://docs.google.com/spreadsheets/d/1nYCbZV4o23rsE53gt2Lg-7bafnBOh6tE/edit?us
 Результати тстів з МКР1 у файлі "Тест 1. Функціональне програмування результати.xlsx" за псиланням https://github.com/tkovalyuk/functional-program/
 
 Шановні студенти! Прошу всіх студентів усіх підгруп усіх викладачів (Ковалюк Т.В. та Петрівського В.Я.) викладати свої звіти або посилання на розміщення звітів в Інтернеті, сертифікати та будь-які ініціативні роботи в папки на гугл диску для якісного підрахунку підсумкових балів. 
+
+
+Посилання на тест2 для МКР2
+https://docs.google.com/forms/d/e/1FAIpQLScPElZFG4J4NiWaX6KbFSBdtcJe2ynaT9EabPdcNAkVhj1VFw/viewfor
