@@ -46,3 +46,5 @@ https://docs.google.com/forms/d/e/1FAIpQLScPElZFG4J4NiWaX6KbFSBdtcJe2ynaT9EabPdc
  Посилання на Тест1 з МКР1
  https://docs.google.com/forms/d/e/1FAIpQLSd_Bg1ASMxOflXO5PFaoKkAXsgltVVBbe5E8aeAE1k-1VAB2w/viewform
  
+ Шановні студенти! Через тривалу ракетну тривогу в Києві 5 грудня 2022 та відключення світла термін здачі МКР2 продовжено до 6 грудня 24:00. 
+ 
