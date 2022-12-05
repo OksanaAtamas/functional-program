@@ -42,3 +42,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScPElZFG4J4NiWaX6KbFSBdtcJe2ynaT9EabPdc
 
 Файли кодів задач іменувати "група-прізвище-номер_варіанта". В коментарії записати посилання або назву IDE, в якому розроблялася програма. 
 Термін здачі завдань 5 грудня 24:00
+
+ Посилання на Тест1 з МКР1
+ https://docs.google.com/forms/d/e/1FAIpQLSd_Bg1ASMxOflXO5PFaoKkAXsgltVVBbe5E8aeAE1k-1VAB2w/viewform
+ 
