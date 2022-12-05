@@ -41,3 +41,4 @@ https://docs.google.com/forms/d/e/1FAIpQLScPElZFG4J4NiWaX6KbFSBdtcJe2ynaT9EabPdc
 Задачі з МКР2 рекомендується розв'язати  в асинхронному режимі і результати ззавантаджити на гугл диск в папку ФП-МКР2 за посиланням https://drive.google.com/drive/folders/1iYSzvxDCH9Vuv-PdvBIAMpLmqLD3C6G0?usp=share_link
 
 Файли кодів задач іменувати "група-прізвище-номер_варіанта". В коментарії записати посилання або назву IDE, в якому розроблялася програма. 
+Термін здачі завдань 5 грудня 24:00
