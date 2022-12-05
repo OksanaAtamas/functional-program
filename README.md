@@ -39,3 +39,5 @@ https://docs.google.com/spreadsheets/d/1nYCbZV4o23rsE53gt2Lg-7bafnBOh6tE/edit?us
 https://docs.google.com/forms/d/e/1FAIpQLScPElZFG4J4NiWaX6KbFSBdtcJe2ynaT9EabPdcNAkVhj1VFw/viewform
 
 Задачі з МКР2 рекомендується розв'язати  в асинхронному режимі і результати ззавантаджити на гугл диск в папку ФП-МКР2 за посиланням https://drive.google.com/drive/folders/1iYSzvxDCH9Vuv-PdvBIAMpLmqLD3C6G0?usp=share_link
+
+Файли кодів задач іменувати "група-прізвище-номер_варіанта"
